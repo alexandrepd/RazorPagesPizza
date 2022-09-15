@@ -2,4 +2,4 @@
 
 A simple project with microsoft Razor
 
-![watching](image/ScreenShot)
+![watching](image/ScreenShot.png)
